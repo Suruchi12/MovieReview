@@ -19,15 +19,18 @@ favourite's list. When unselected the same icon, the movie is removed from the l
 
 
 The entire app is made without using Storyboard.
+## Finished App
 
-## Finished APP
-
+#### Movie Information
 ![Movie Information](https://media.giphy.com/media/9JcL0Lo2kV4JdStbOl/giphy.gif)
 
+#### User Sign Up
 ![User Sign Up](https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif)
 
+#### User Sign In
 ![User Sign In](https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif)
 
+#### Write a Review
 ![Write a Review](https://media.giphy.com/media/cXV0h7V614W2qBpn6S/giphy.gif)
 
 
