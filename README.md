@@ -31,6 +31,6 @@ The entire app is made without using Storyboard.
 ![User Sign In](https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif)
 
 #### Write a Review
-![Write a Review](https://media.giphy.com/media/cXV0h7V614W2qBpn6S/giphy.gif)
+![Write a Review](https://media.giphy.com/media/7zYBvcfpddCAuMCsy5/giphy.gif)
 
 
