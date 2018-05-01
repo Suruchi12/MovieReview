@@ -24,10 +24,10 @@ The entire app is made without using Storyboard.
 
 ![Movie Information](https://media.giphy.com/media/9JcL0Lo2kV4JdStbOl/giphy.gif)
 
-![User Sign Up](https://gph.is/2HG6UcA)
+![User Sign Up](https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif)
 
-![User Sign In](https://gph.is/2HG6UcA)
+![User Sign In](https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif)
 
-![Write a Review](https://gph.is/2JHo6uM)
+![Write a Review](https://media.giphy.com/media/cXV0h7V614W2qBpn6S/giphy.gif)
 
 
