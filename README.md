@@ -27,16 +27,15 @@ The entire app is made without using Storyboard.
 
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif' title='User Sign Up' alt='User Sign Up'/>
-<img style="float:left;" src='https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif' title='User Sign In' alt='User Sign In'/>
+<img style="float:left;" src='https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif' title='User Sign In' alt='User Sign In'/>
 <img style="float:left;" src='https://media.giphy.com/media/7zYBvcfpddCAuMCsy5/giphy.gif' title='Write a Review' alt='Write a Review'/>
 </div>
+<!-- ...
 #### User Sign Up
 ![User Sign Up](https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif)
-
 #### User Sign In
 ![User Sign In](https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif)
-
 #### Write a Review
 ![Write a Review](https://media.giphy.com/media/7zYBvcfpddCAuMCsy5/giphy.gif)
-
+ -->
 
