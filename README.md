@@ -24,7 +24,7 @@ The entire app is made without using Storyboard.
 #### Movie Information
 ![Movie Information](https://media.giphy.com/media/9JcL0Lo2kV4JdStbOl/giphy.gif)
 
-
+#### Sign Up, Sign In, Write a Review <br>
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif' title='User Sign Up' alt='User Sign Up'/>
 <img style="float:left;" src='https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif' title='User Sign In' alt='User Sign In'/>
