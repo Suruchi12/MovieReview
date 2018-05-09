@@ -22,7 +22,7 @@ The entire app is made without using Storyboard.
 ## Finished App
 
 #### Movie Information
-![Movie Information](https://media.giphy.com/media/9JcL0Lo2kV4JdStbOl/giphy.gif)
+![Movie Information](https://media.giphy.com/media/WNmJdJW1hRdMR4hmeg/giphy.gif)
 
 #### Sign Up, Sign In, Write a Review <br>
 <div>
