@@ -35,9 +35,9 @@ The entire app is made without using Storyboard.
 
 #### Edit Review, Favorite Movie, UnFavorite Movie <br>
 <div>
-<img style="float:left;" src='https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif' title='User Sign Up' alt='User Sign Up'/>
-<img style="float:left;" src='https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif' title='User Sign In' alt='User Sign In'/>
-<img style="float:left;" src='https://media.giphy.com/media/FP47ggoYwyovJdGMbR/giphy.gif' title='Write a Review' alt='Write a Review'/>
+<img style="float:left;" src='https://media.giphy.com/media/t6Wxy4BMVwYJK7b41T/giphy.gif' title='Movie Review Modification' alt='Movie Review Modification'/>
+<img style="float:left;" src='https://media.giphy.com/media/QNWzAKQjcde3UkLvke/giphy.gif' title='Favorite Movie' alt='Favorite Movie'/>
+<img style="float:left;" src='https://media.giphy.com/media/2sbOGsbSkK4V2y3M9Y/giphy.gif' title='Un Favorite Movie' alt='Un Favorite Movie'/>
 </div>
 
 
