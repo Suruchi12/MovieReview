@@ -24,7 +24,7 @@ The entire app is made without using Storyboard.
 #### Movie Information
 ![Movie Information](https://media.giphy.com/media/9JcL0Lo2kV4JdStbOl/giphy.gif)
 
-![Movie Information](https://i.imgur.com/bj0YqkC.gifv)
+
 
 #### Sign Up, Sign In, Write a Review <br>
 <div>
@@ -33,7 +33,7 @@ The entire app is made without using Storyboard.
 <img style="float:left;" src='https://media.giphy.com/media/7zYBvcfpddCAuMCsy5/giphy.gif' title='Write a Review' alt='Write a Review'/>
 </div>
 
-
+![Movie ](https://i.imgur.com/bj0YqkC.gifv)
 
 <!-- ...
 #### User Sign Up
