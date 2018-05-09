@@ -30,10 +30,16 @@ The entire app is made without using Storyboard.
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif' title='User Sign Up' alt='User Sign Up'/>
 <img style="float:left;" src='https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif' title='User Sign In' alt='User Sign In'/>
-<img style="float:left;" src='https://media.giphy.com/media/7zYBvcfpddCAuMCsy5/giphy.gif' title='Write a Review' alt='Write a Review'/>
+<img style="float:left;" src='https://media.giphy.com/media/FP47ggoYwyovJdGMbR/giphy.gif' title='Write a Review' alt='Write a Review'/>
 </div>
 
-![Movie] (https://i.imgur.com/bj0YqkC.gifv)
+#### Edit Review, Favorite Movie, UnFavorite Movie <br>
+<div>
+<img style="float:left;" src='https://media.giphy.com/media/RMxlbUSn9lWGHEoEGD/giphy.gif' title='User Sign Up' alt='User Sign Up'/>
+<img style="float:left;" src='https://media.giphy.com/media/3XyCkSzdLetS7ISyk7/giphy.gif' title='User Sign In' alt='User Sign In'/>
+<img style="float:left;" src='https://media.giphy.com/media/FP47ggoYwyovJdGMbR/giphy.gif' title='Write a Review' alt='Write a Review'/>
+</div>
+
 
 <!-- ...
 #### User Sign Up
